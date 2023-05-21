@@ -1,0 +1,6 @@
+nome = "265488"
+
+
+
+final = (nome[-1])
+print(final)
